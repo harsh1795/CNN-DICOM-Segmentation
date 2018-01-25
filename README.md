@@ -19,6 +19,7 @@
    - 7 Layer - 2 Convolutional/Deconvolutional (First 3 layers), 4 (Next 3 layers), 8(Last layer) - 6 pooling and upsampling layers - "SAME" padding
  - Performing much better than thresholding methods
  
-**Results**
- - Achieved accuracy above 99% in Image segmentation of 500 dicom images.
+**Results & Visualization**
+ - Achieved accuracy above **99%** in Image segmentation of 500 dicom images.
+ - Images are uploaded in **model_12_hr_250_50 >> prediction** of validation images per epoc. 
    
