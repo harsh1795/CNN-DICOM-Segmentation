@@ -1,6 +1,6 @@
-# GE_HealthCare
+# HealthCare
 **Project : Image Segmentation of Dicom Images to remove headrest label from head CT scans**
-
+Please give a :star: if you like my work.:smiley:
 **Description**
  - Programming Language - **Python2, Jupyter, Tensorflow**
  - Task: Remove Headrest from all the scans of patient given in dicom format using **Convolutional Neural Networks by Image Segmentation**
