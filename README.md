@@ -28,4 +28,5 @@
  - Achieved accuracy above **99%** in Image segmentation of 500 dicom images. Here is one example of one test image.<p align= "center"><img src = "https://user-images.githubusercontent.com/14862231/35969504-0e3bb798-0ced-11e8-80b1-29e0fe1a48b8.png" height = "300"></p>
  - Since model was trained on only head CT scan images, here is the segmented image of chest CT scan image when feeded to the model.<p align = "center"><img src = 'images/chest_prediction.png' height = '300'></p>
  - **There is an awesome visualization of how model improves and predicts a batch of 10 images per epoch in a video format. Here is the [link](https://github.com/harsh1795/CNN-DICOM-Segmentation/blob/master/images/Epoc_video.mp4) for the video or you can also download it from /images/Epoc_video.mp4** 
-   
+___   
+Special credit to ***Joel Akeret*** for beautiful implementation of Image Segmentation of Tensorflow. Please visit his [repo](https://github.com/jakeret/tf_unet) for detailed code.
